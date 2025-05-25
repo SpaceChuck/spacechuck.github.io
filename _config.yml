@@ -1,3 +1,4 @@
 theme: jekyll-theme-time-machine
 title: SpaceChuck
 description: Play Taze Adam!
+include: [".well-known"]
